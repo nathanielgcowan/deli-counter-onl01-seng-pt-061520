@@ -3,7 +3,7 @@ katz_deli = []
 
 def take_a_number
   array.push(name)
-  positoin = 
+  positoin = array.index(name)
   puts "Welcome #{name}"
 end
 
