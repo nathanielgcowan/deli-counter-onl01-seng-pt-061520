@@ -5,7 +5,7 @@ def take_a_number
   array.push(name)
   positoin = array.index(name)
   puts "Welcome, #{name}. You are number #{array.index(name)+1} in line."
-  return 
+  return name, position
 end
 
 def now_serving
