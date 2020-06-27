@@ -4,7 +4,7 @@ katz_deli = []
 def take_a_number
   array.push(name)
   positoin = array.index(name)
-  puts "Welcome, #{name}". You are 
+  puts "Welcome, #{name}". You are number #{
 end
 
 def now_serving
