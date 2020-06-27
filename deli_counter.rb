@@ -1,7 +1,8 @@
 # Write your code here.
 katz_deli = []
 
-def take_a_number 
+def take_a_number
+  array.push(name)
   puts "Welcome #{name}"
 end
 
