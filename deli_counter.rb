@@ -2,5 +2,5 @@
 katz_deli = []
 
 def take_a_number 
-  puts 
+  puts "Welcome #{name}"
 end
