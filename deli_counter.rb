@@ -1,7 +1,4 @@
 # Write your code here.
-def line
-  puts "The line is currently empty."
-end
-
+kat_deli = []
 def take_a_number (array, name)
 end
